@@ -14,7 +14,7 @@ A public, read-only atlas for exploring AI security concepts, attacks, defenses,
 - **Recent signals:** find newly published research and disclosures across the taxonomy, with a stated 18-month window.
 - **Fast navigation:** browse 141 taxonomy nodes, search the atlas, and follow citations to primary sources.
 
-The bibliography is curated and is not exhaustive. Content was last updated **November 17, 2026**.
+The bibliography is curated and is not exhaustive. Content was last updated **November 24, 2026**.
 
 ## Run locally
 
